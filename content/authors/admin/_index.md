@@ -118,7 +118,7 @@ social:
 highlight_name: true
 ---
 
-I am an HCI researcher deeply interested in Virtual Reality (VR) and Artificial Intelligence (AI). My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual's perception and behavior, and the potential of this influence to enhance communication among people. 
+I am an HCI researcher deeply interested in Virtual Reality (VR), Social Computing and Artificial Intelligence (AI). My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual's perception and behavior, and the potential of this influence to enhance communication among people. 
 
 I recently completed my Master's degree in Computer Science at the University of British Columbia, under the co-supervision of Prof. Joanna McGrenere in eDapt and Prof. Dongwook Yoon in D-lab. My thesis involved developing a VR system named LegacySphere. This system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is currently under review for CHI 2024. 
 
