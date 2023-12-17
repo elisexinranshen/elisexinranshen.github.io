@@ -37,15 +37,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc.in Computer Science
+      institution: University of British Columbia (Vancouver Campus)
+      year: 2023
+    - course: BSc in Computer Science
+      institution: University of Toronto (St.George Campus)
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,9 +118,11 @@ social:
 highlight_name: true
 ---
 
-I am an HCI researcher deeply interested in Virtual Reality (VR) and Artificial Intelligence (AI). My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual's perception and behavior, and the potential of this influence to enhance communication among people. I recently completed my Master's degree in Computer Science at the University of British Columbia, under the co-supervision of Prof. Joanna McGrenere in eDapt and Prof. Dongwook Yoon in D-lab. 
+I am an HCI researcher deeply interested in Virtual Reality (VR) and Artificial Intelligence (AI). My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual's perception and behavior, and the potential of this influence to enhance communication among people. 
 
-My thesis involved developing a VR system named LegacySphere. This system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is currently under review for CHI 2024. 
+I recently completed my Master's degree in Computer Science at the University of British Columbia, under the co-supervision of Prof. Joanna McGrenere in eDapt and Prof. Dongwook Yoon in D-lab. My thesis involved developing a VR system named LegacySphere. This system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is currently under review for CHI 2024. 
 
-Prior to this, I completed my undergraduate degree in Computer Science at the University of Toronto, under the guidance of Prof. Daniel Wigdor in the Dynamic Graphics Project and Prof. Zhicong Lu. During this time, three of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI. In addition to my academic pursuits, I am a cat lover and a fanfiction writer. Send me your cat pictures to elise.shen007@gmail.com , and I'll reply with heartfelt words of praise and delight!
+Prior to this, I completed my undergraduate degree in Computer Science at the University of Toronto, under the guidance of Prof. Daniel Wigdor in the Dynamic Graphics Project and Prof. Zhicong Lu. During this time, three of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI. 
+
+In addition to my academic pursuits, I am a cat lover and a fanfiction writer. Send me your cat pictures to elise.shen007@gmail.com , and I'll reply with heartfelt words of praise and delight!
 {style="text-align: justify;"}
