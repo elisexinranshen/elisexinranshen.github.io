@@ -122,7 +122,7 @@ I am an HCI researcher deeply interested in Virtual Reality (VR) and Artificial 
 
 I recently completed my Master's degree in Computer Science at the University of British Columbia, under the co-supervision of Prof. Joanna McGrenere in eDapt and Prof. Dongwook Yoon in D-lab. My thesis involved developing a VR system named LegacySphere. This system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is currently under review for CHI 2024. 
 
-Prior to this, I completed my undergraduate degree in Computer Science at the University of Toronto, under the guidance of Prof. Daniel Wigdor in the Dynamic Graphics Project and Prof. Zhicong Lu. During this time, three of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI. 
+Prior to this, I completed my undergraduate degree in Computer Science at the University of Toronto, under the guidance of Prof. Daniel Wigdor in the Dynamic Graphics Project and Prof. Zhicong Lu. During this time, 3 of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI. 
 
 In addition to my academic pursuits, I am a cat lover and a fanfiction writer. Send me your cat pictures to elise.shen007@gmail.com , and I'll reply with heartfelt words of praise and delight!
 {style="text-align: justify;"}
