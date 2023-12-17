@@ -29,9 +29,10 @@ bio: I am an HCI researcher deeply interested in Virtual Reality (VR) and Artifi
 
 # Interests to show in About widget
 interests:
+  - Virtual Reality (VR)
+  - Social Computing
+  - Computational Social Science
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
