@@ -91,22 +91,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:elise.shen007@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/chenxinrans?lang=en
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.ca/citations?user=0v74PR0AAAAJ&hl=en
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chenxinraneliseshen/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -118,11 +118,11 @@ social:
 highlight_name: true
 ---
 
-I am an HCI researcher deeply interested in **Virtual Reality (VR), Social Computing and Artificial Intelligence (AI)**. My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual's perception and behavior, and the potential of this influence to enhance communication among people.  
+I am a HCI researcher interested in **Virtual Reality (VR), Social Computing and Artificial Intelligence (AI)**. My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual's perception and behavior, and the potential of this influence to enhance communication among people.  
 
-I recently completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** in eDAPT and **Prof. [Dongwook Yoon](https://dwyoon.com/)** in D-lab. My thesis involved developing a VR system named *LegacySphere*. This system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is currently under review for CHI 2024. 
+I recently completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** in eDAPT and **Dr. [Dongwook Yoon](https://dwyoon.com/)** in D-lab. For my thesis, I developed a VR system named *LegacySphere*. The system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is currently under review for CHI 2024. 
 
-Prior to this, I completed my undergraduate degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** in the Dynamic Graphics Project and **Prof. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI 🏆. 
+Prior to this, I completed my undergraduate degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** in the Dynamic Graphics Project and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI 🏆. 
 
 In addition to my academic pursuits, I am a cat lover 🐈 and a fanfiction writer 📘. Send me your cat pictures to elise.shen007@gmail.com , and I'll reply with heartfelt words of praise and delight!
 {style="text-align: justify;"}
