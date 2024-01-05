@@ -1,10 +1,10 @@
 ---
-title: \" Positive Energy\" Perceptions and Attitudes Towards COVID-19 Information
+title: " Positive Energy" Perceptions and Attitudes Towards COVID-19 Information
   on Social Media in China
 authors:
 - Zhicong Lu
 - Yue Jiang
-- Chenxinran Shen
+- **Chenxinran Shen**
 - Margaret C Jack
 - Daniel Wigdor
 - Mor Naaman
