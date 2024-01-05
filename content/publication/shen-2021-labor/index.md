@@ -2,7 +2,7 @@
 title: 'The Labor of fun: understanding the social relationships between gamers and
   paid gaming teammates in China'
 authors:
-- **Chenxinran Shen**
+- <strong>Chenxinran Shen</strong>
 - Zhicong Lu
 - Travis Faas
 - Daniel Wigdor
