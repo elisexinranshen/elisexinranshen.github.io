@@ -4,7 +4,7 @@ title: " Positive Energy" Perceptions and Attitudes Towards COVID-19 Information
 authors:
 - Zhicong Lu
 - Yue Jiang
-- <strong>Chenxinran Shen</strong>
+- "<strong>Chenxinran Shen</strong>"
 - Margaret C Jack
 - Daniel Wigdor
 - Mor Naaman

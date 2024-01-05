@@ -3,7 +3,7 @@ title: 'More kawaii than a real-person live streamer: understanding how the otak
   community engages with and perceives virtual YouTubers'
 authors:
 - Zhicong Lu
-- <strong>Chenxinran Shen</strong>
+- "<strong>Chenxinran Shen</strong>"
 - Jiannan Li
 - Hong Shen
 - Daniel Wigdor
