@@ -13,6 +13,7 @@ appearance:
   appearance:
   mode: light
   color: blue
+  theme_light: true
 
 # SEO
 
