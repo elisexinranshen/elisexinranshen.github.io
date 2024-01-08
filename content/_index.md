@@ -165,21 +165,21 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      #text: |-
-       # {{% callout note %}}
-       # Quickly discover relevant content by [filtering publications](./publication/).
-       # {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications
+  #     #text: |-
+  #      # {{% callout note %}}
+  #      # Quickly discover relevant content by [filtering publications](./publication/).
+  #      # {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   # 这里是experience
   # - block: experience
   #   content:
