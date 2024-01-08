@@ -44,13 +44,13 @@ image:
   caption: CHI 2024
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: https://drive.google.com/file/d/1mzm-kLwuYUYHA1XUBXbYyrvnaBAWOt4m/view?usp=sharing
 url_slides: ''
 url_video: ''
 

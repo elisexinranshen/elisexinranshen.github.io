@@ -12,13 +12,13 @@ image:
   caption: CHI 2021
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3411764.3445660
 url_slides: ''
 url_video: ''
 
