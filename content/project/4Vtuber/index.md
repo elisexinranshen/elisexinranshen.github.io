@@ -1,5 +1,5 @@
 ---
-title: "The Labor of Fun: Understanding the Social Relationships between Gamers and Paid Gaming Teammates in China"
+title: "More Kawaii than a Real-Person Streamer: Understanding How the Otaku Community Engages with and Perceives Virtual YouTubers"
 summary: Zhicong Lu, __Chenxinran Shen__, Jiannan Li, Hong Shen, Daniel Wigdor <br> _In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems 2021_ 
 tags:
   - SC
