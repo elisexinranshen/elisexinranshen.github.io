@@ -140,12 +140,16 @@ sections:
           tag: VR
         - name: Social Computing
           tag: SC
+      sort:  # Add a new sort key
+        by: date  # Define the attribute to sort by
+        order: desc  # Specify the order (asc for ascending, desc for descending)
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      
   # - block: markdown
   #   content:
   #     title: Gallery
