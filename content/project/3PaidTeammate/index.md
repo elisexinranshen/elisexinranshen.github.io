@@ -18,7 +18,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3411764.3445550
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3411764.3445550?casa_token=UR6plGgfjk0AAAAA:75r6s3t5TXtZgaTk93NASixagR7BZh81mgneMwUSG13jy39b6NGT084XECG7Xui15cQLDRxdu_fT
 url_slides: ''
 url_video: ''
 
