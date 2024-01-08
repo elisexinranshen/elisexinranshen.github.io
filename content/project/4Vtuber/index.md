@@ -30,4 +30,5 @@ url_video: ''
 
 
 ---
-text
+Live streaming has become increasingly popular, with most streamers presenting their real identity. However, Virtual YouTubers (VTubers), virtual 2D or 3D avatars that are voiced by humans, have emerged as a new type of streamers that are attracting a growing viewership in East Asia. Although prior research has found that many viewers seek real-life interpersonal interactions with real-person streamers, it is currently unknown what makes VTuber live streams engaging or how they are perceived differently than real-person streamers. We conducted an interview study to understand how viewers watch and engage with VTubers and how they perceive the identities of the voice actors behind the avatars (i.e., Nakanohito). The data revealed that viewers intentionally upheld the disembodiment of VTuber avatars from their voice actors. We uncover the nuances in viewer perceptions and attitudes and further discuss the implications of VTuber practices to the understanding of live streaming in general.
+

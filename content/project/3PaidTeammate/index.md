@@ -30,4 +30,4 @@ url_video: ''
 
 
 ---
-text
+Online video games support the development of social relationships through gameplay, however, gamers often cannot cultivate and maintain relationships based on social factors such as personality when using in-game matchmaking services. To address this, teammate matching sites external to games have emerged and enable gamers to offer to play games with others in exchange for payment. The affordances of these services are different from other existing gamer social sites. Interviews were conducted with 16 dedicated users on Bixin, a paid teammate matching sites, to examine user motivations, practices, and perceptions. We found that gamers selected paid teammates using different criteria compared to in-game matchmaking services and emphasized the importance of real-life characteristics such as voice. To maintain connections, paid teammates often extended communication to external services such as WeChat. Although most gamers expected to communicate with paid teammates like friends, very few reported building real friendships with their matched counterparts.

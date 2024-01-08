@@ -62,4 +62,4 @@ url_video: ''
 
 
 ---
-text
+Online dating has gained widespread popularity as a means for individuals to connect with potential romantic partners. Many dating apps employ profiles that include a headshot and self-description, allowing users to present themselves and search for compatible matches. However, this model often leads to a limitation. In this study, we introduce a burgeoning voice-based dating app named "Soul". Unlike traditional platforms that rely heavily on profile information, Soul facilitates user interactions through voice-based communication. We conducted semi-structured interviews with 18 dedicated Soul users to investigate how they engage with the platform and perceive themselves and others in this unique dating environment. Our findings indicate that i) the role of voice as a moderator influences impression management and shapes perceptions; ii) the benefits that synchronous voice-based and community-based dating platforms offer to users in the Chinese context. Our study contributes to understanding the affordances introduced by voice-based interactions in online dating.
