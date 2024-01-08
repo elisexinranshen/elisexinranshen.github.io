@@ -1,6 +1,6 @@
 ---
 title: "The Labor of Fun: Understanding the Social Relationships between Gamers and Paid Gaming Teammates in China"
-summary: __Chenxinran Shen__, Zhicong Lu, Travis Faas, Daniel Wigdor <br> _In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems 2021_ 
+summary: Zhicong Lu, __Chenxinran Shen__, Jiannan Li, Hong Shen, Daniel Wigdor <br> _In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems 2021_ 
 tags:
   - SC
 date: '2016-04-27T00:00:00Z'

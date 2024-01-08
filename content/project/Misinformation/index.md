@@ -1,6 +1,6 @@
 ---
-title: "The Labor of Fun: Understanding the Social Relationships between Gamers and Paid Gaming Teammates in China"
-summary: __Chenxinran Shen__, Zhicong Lu, Travis Faas, Daniel Wigdor <br> _In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems 2021_ 
+title: "“Positive Energy”: Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
+summary: Zhicong Lu,Yue Jiang, __Chenxinran Shen__, Margaret Jack, Daniel Wigdor, Mor Naauman <br> _Proceedings of the ACM on Human-Computer Interaction, 5(CSCW) (to appear at CSCW 2021) 2021_ 
 tags:
   - SC
 date: '2016-04-27T00:00:00Z'
