@@ -17,8 +17,8 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: https://drive.google.com/file/d/1QxVBa7fNsESY2Itr0XiYrR8eCoMEpqp7/view?usp=sharing
-url_pdf: ''
+url_code: ''
+url_pdf: https://drive.google.com/file/d/1QxVBa7fNsESY2Itr0XiYrR8eCoMEpqp7/view?usp=sharing
 url_slides: ''
 url_video: ''
 
