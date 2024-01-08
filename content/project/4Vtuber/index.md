@@ -3,7 +3,7 @@ title: "More Kawaii than a Real-Person Streamer: Understanding How the Otaku Com
 summary: Zhicong Lu, __Chenxinran Shen__, Jiannan Li, Hong Shen, Daniel Wigdor <br> _In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems 2021_ 
 tags:
   - SC
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

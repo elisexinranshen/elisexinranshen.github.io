@@ -3,7 +3,7 @@ title: "Fostering Empathy through Intergenerational Storytelling in Embodied Vir
 summary: Chenxinran Shen <br> _Master's Thesis_ 
 tags:
   - VR
-date: '2016-04-27T00:00:00Z'
+date: '2023-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

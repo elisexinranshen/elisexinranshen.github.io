@@ -3,7 +3,7 @@ title: "Positive Energy: Perceptions and Attitudes Towards COVID-19 Information 
 summary: Zhicong Lu,Yue Jiang, __Chenxinran Shen__, Margaret Jack, Daniel Wigdor, Mor Naauman <br> _Proceedings of the ACM on Human-Computer Interaction, 5(CSCW) (to appear at CSCW 2021) 2021_ 
 tags:
   - SC
-date: '2016-04-27T00:00:00Z'
+date: '2021-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

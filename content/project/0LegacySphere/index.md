@@ -58,7 +58,7 @@ title: "LegacySphere: Facilitating Intergenerational Communication Through Persp
 summary: __Chenxinran Shen__, Joanna McGrenere, Dongwook Yoon <br> _In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems 2024 (In Submission)_
 tags:
   - VR
-date: '2020-04-27T00:00:00Z'
+date: '2024-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
