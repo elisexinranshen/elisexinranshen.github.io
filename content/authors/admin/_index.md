@@ -9,7 +9,7 @@ name_pronunciation: ''
 first_name: Chenxinran Elise
 last_name: Shen
 
-# Status emoji
+# Stat
 status:
   icon: ☕️
 
