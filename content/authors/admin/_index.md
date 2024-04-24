@@ -124,5 +124,5 @@ I recently completed my Master's degree in Computer Science at the **University 
 
 Prior to this, I completed my undergraduate degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** in the Dynamic Graphics Project and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, **my first-authored paper, which investigates the gig economy in gaming, was awarded an honorable mention at CHI 🏆.**
 
-In addition to my academic pursuits, I am a cat lover 🐈 and a fanfiction writer 📘. Send me your cat pictures to elise.shen007@gmail.com , and I'll reply with heartfelt words of praise and delight!
+Contact: elise.shen007@gmail.com 
 {style="text-align: justify;"}
