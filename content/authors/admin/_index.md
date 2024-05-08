@@ -122,7 +122,7 @@ I am a HCI researcher interested in **Virtual Reality (VR), Social Computing and
 
 I recently completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** in eDAPT and **Dr. [Dongwook Yoon](https://dwyoon.com/)** in D-lab. For my thesis, I developed a VR system named *LegacySphere*. The system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints. The paper is accepted by CHI 2024. 
 
-Prior to this, I completed my undergraduate degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** in the Dynamic Graphics Project and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our Social Computing papers were accepted by CSCW and CHI conferences. Notably, 
+Prior to this, I completed my undergraduate degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** in the Dynamic Graphics Project and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our Social Computing papers were accepted by CSCW and CHI conferences. 
 
 Contact: elise.shen007@gmail.com 
 {style="text-align: justify;"}
