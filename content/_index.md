@@ -140,6 +140,8 @@ sections:
           tag: VR
         - name: Social Computing
           tag: SC
+        - name: Human-AI Interaction
+          tag: HAI
       sort:  # Add a new sort key
         by: date  # Define the attribute to sort by
         order: desc  # Specify the order (asc for ascending, desc for descending)
