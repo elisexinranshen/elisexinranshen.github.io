@@ -1,7 +1,6 @@
 ---
-title: "Positive Energy: Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
-summary: Human Cooperation in the Age of AI-augmentation
-__Chenxinran Shen__, Robin Welsch, Jurgis Karpus, Thomas Kosch, Steeven Villa <br> _In submission toward the 2025 CHI Conference on Human Factors in Computing Systems 2021_ <br> __<font color="red">Best Paper Honorable Mention (Top 5%) </font>🏆__ 
+title: "Human Cooperation in the Age of AI-augmentation"
+summary: "__Chenxinran Shen__, Robin Welsch, Jurgis Karpus, Thomas Kosch, Steeven Villa <br> _In submission to CHI2025_ <br>__ "
 tags:
   - HAI
 date: '2021-04-27T00:00:00Z'
