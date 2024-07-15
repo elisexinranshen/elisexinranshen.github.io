@@ -73,7 +73,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: https://drive.google.com/file/d/1GQRjliHkwFw05VXMn-bG-z07EZakgvzI/view?usp=sharing
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3613904.3641923
 url_slides: ''
 url_video: ''
 

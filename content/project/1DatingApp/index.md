@@ -21,7 +21,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: https://drive.google.com/file/d/1mzm-kLwuYUYHA1XUBXbYyrvnaBAWOt4m/view?usp=sharing
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3613904.3642860
 url_slides: ''
 url_video: ''
 
