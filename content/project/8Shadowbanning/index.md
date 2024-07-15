@@ -1,9 +1,9 @@
 ---
-title: "Understanding the Impact of Shadowbanning on Topic Trending Lists Using Large-Scale Weibo Comments"
+title: "Understanding the Impact of Shadowbanning on Topic Trending Lists Using Large-Scale Weibo Data"
 summary: "__Chenxinran Shen__, __Bingjian Huang__, Zhicong Lu <br> _In submission to CHI2025_ <br> "
 tags:
   - SC
-date: '2025-04-27T00:00:00Z'
+date: '2024-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
