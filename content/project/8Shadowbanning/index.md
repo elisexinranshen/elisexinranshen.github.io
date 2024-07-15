@@ -1,9 +1,9 @@
 ---
-title: "Human Cooperation in the Age of AI-augmentation"
-summary: "__Chenxinran Shen__, Robin Welsch, Jurgis Karpus, Thomas Kosch, Steeven Villa <br> _In submission to CHI2025_ <br> "
+title: "Understanding the Impact of Shadowbanning on Topic Trending Lists Using Large-Scale Weibo Comments"
+summary: "__Chenxinran Shen__, __Bingjian Huang__, Zhicong Lu <br> _In submission to CHI2025_ <br> "
 tags:
-  - HAI
-date: '2025-05-27T00:00:00Z'
+  - SC
+date: '2025-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
