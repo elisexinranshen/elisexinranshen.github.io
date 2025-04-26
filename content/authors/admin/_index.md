@@ -125,7 +125,7 @@ I recently completed my Master's degree in Computer Science at the **University 
 
 Prior to this, I completed my Bachelor's degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our **Social Computing** papers were accepted by CSCW and CHI conferences. 
 
-<FONT COLOR="#ff0000"><b>I am actively looking for PhD opportunities starting in the fall of 2025.</b> </FONT>
+<FONT COLOR="#ff0000"><b>I am starting my PhD studies at the Dynamic Graphics Project lab at the University of Toronto in the fall of 2025.</b> </FONT>
 
 Contact: elise.shen007@gmail.com 
 {style="text-align: justify;"}
