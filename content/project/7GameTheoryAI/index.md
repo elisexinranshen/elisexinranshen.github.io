@@ -10,7 +10,7 @@ external_link: ''
 
 image:
   caption: CHI 2021
-  focal_point: Smart
+  focal_point: Smart 
 
 # links:
 #   - icon: twitter
