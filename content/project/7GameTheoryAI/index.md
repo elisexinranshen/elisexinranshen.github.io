@@ -1,6 +1,6 @@
 ---
 title: "Human Cooperation in the Age of AI-Augmentation"
-summary: "__Chenxinran Shen__, Robin Welsch, Jurgis Karpus, Thomas Kosch, Steeven Villa <br> _In submission to CHI2025_ <br> "
+summary: "__Chenxinran Shen__, Robin Welsch, Jurgis Karpus, Thomas Kosch, Steeven Villa <br> Augmented Human 2025 <br> "
 tags:
   - HAI
 date: '2024-02-27T00:00:00Z'
