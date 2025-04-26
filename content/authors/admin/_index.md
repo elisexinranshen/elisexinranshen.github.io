@@ -123,7 +123,7 @@ My research focuses on **Computer Mediated Communication (CMC)**, particularly o
 
 I recently completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** and **Prof. [Dongwook Yoon](https://dwyoon.com/)**. My project, which aims to improve **intergenerational communication through VR**, has been accepted by CHI 2024.
 
-Prior to this, I completed my Bachelor's degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our **Social Computing** papers were accepted by CSCW and CHI conferences. 
+Prior to this, I completed my Bachelor's degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our **Social Computing** papers were accepted by CSCW and CHI conferences.  
 
 <b>I am starting my PhD studies at the Dynamic Graphics Project lab at the University of Toronto in the fall of 2025. </b> 
 
