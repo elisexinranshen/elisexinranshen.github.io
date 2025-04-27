@@ -119,13 +119,13 @@ social:
 # For my thesis, I developed a VR system named *LegacySphere*. The system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints.
 highlight_name: true
 ---
-My research focuses on **Computer Mediated Communication (CMC)**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. My aim is to enhance communication outcomes by increasing empathy and reducing bias. I leverage **AI and VR technologies** to achieve these objectives. My work spans various CMC scenarios, including **intergenerational communication, gaming, and online dating**. <FONT COLOR="#ff0000"><b>Two of my papers, for which I was the first author, received Honorable Mention Awards at CHI 2024 and CHI 2021 🏆.</b> </FONT>
+My research focuses on **Computer Mediated Communication (CMC)**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. My work leverages **AI and VR technologies** and spans  various CMC scenarios, including **intergenerational communication, gaming, and online dating**. <FONT COLOR="#ff0000"><b>Two of my papers, for which I was the first author, received Honorable Mention Awards at CHI 2024 and CHI 2021 🏆.</b> </FONT>
 
-I recently completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** and **Prof. [Dongwook Yoon](https://dwyoon.com/)**. My project, which aims to improve **intergenerational communication through VR**, has been accepted by CHI 2024.
 
-Prior to this, I completed my Bachelor's degree in Computer Science at the **University of Toronto**, under the guidance of **Prof. [Daniel Wigdor](https://danielwigdor.com/)** and **Dr. [Zhicong Lu](https://www.cs.utoronto.ca/~luzhc/)**. During this time, 3 of our **Social Computing** papers were accepted by CSCW and CHI conferences.  
+I am starting my PhD studies at the Dynamic Graphics Project lab at the **University of Toronto** in the fall of 2025, supervised by **Prof. [Daniel Wigdor](https://danielwigdor.com/)** 
 
-<b>I am starting my PhD studies at the Dynamic Graphics Project lab at the University of Toronto in the fall of 2025. </b> 
+Prior to this, I completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** and **Prof. [Dongwook Yoon](https://dwyoon.com/)**. 
+ 
 
 Contact: elise.shen007@gmail.com 
 {style="text-align: justify;"}
