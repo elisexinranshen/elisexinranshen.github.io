@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: HCI Researcher
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -29,20 +29,20 @@ bio: I am interested in Virtual Reality (VR) and Artificial Intelligence (AI). M
 
 # Interests to show in About widget
 interests:
+  - Human-AI Interaction
+  - Creativity Support
   - Computer Mediated Communication (CMC)
   - Virtual Reality (VR)
-  - Social Computing
-  - Human-AI Interaction
 
 # Education to show in About widget
 education:
   courses:
+    - Course: Ph.D in Computer Science (in progress)
+      institution: University of Toronto
     - course: M.Sc.in Computer Science
       institution: University of British Columbia (Vancouver Campus)
-      year: 2023
     - course: BSc in Computer Science
       institution: University of Toronto (St.George Campus)
-      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -119,10 +119,9 @@ social:
 # For my thesis, I developed a VR system named *LegacySphere*. The system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints.
 highlight_name: true
 ---
-My research focuses on **Computer Mediated Communication (CMC)**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. My work leverages **AI and VR technologies** and spans  various CMC scenarios, including **intergenerational communication, gaming, and online dating**. I received Honorable Mention Awards at CHI 2024 and CHI 2021 🏆 as the first author. 
+My research focuses on **Computer Mediated Communication (CMC)**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. I received Honorable Mention Awards at CHI 2024 and CHI 2021 🏆 as the first author. 
 
-
-I am starting my PhD studies in Computer Science at the **University of Toronto**, where I’ll be working with **Prof. [Daniel Wigdor](https://danielwigdor.com/)** 
+I am currently a PhD student in Computer Science at the **University of Toronto**, working with **Prof. [Daniel Wigdor](https://danielwigdor.com/)**. I also worked with **Prof. [Robert Xiao](https://www.robertxiao.ca/)**at the **University of British Columbia**. 
 
 Prior to this, I completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** and **Prof. [Dongwook Yoon](https://dwyoon.com/)**. 
  
