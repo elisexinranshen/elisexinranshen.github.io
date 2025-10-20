@@ -121,7 +121,7 @@ highlight_name: true
 ---
 My research focuses on **Computer Mediated Communication (CMC)**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. I received Honorable Mention Awards at CHI 2024 and CHI 2021 🏆 as the first author. 
 
-I am currently a PhD student in Computer Science at the **University of Toronto**, working with **Prof. [Daniel Wigdor](https://danielwigdor.com/)**. I also worked with **Prof. [Robert Xiao](https://www.robertxiao.ca/)**at the **University of British Columbia**. 
+I am currently a PhD student in Computer Science at the **University of Toronto**, working with **Prof. [Daniel Wigdor](https://danielwigdor.com/)**. I also worked with **Prof. [Robert Xiao](https://www.robertxiao.ca/)** at the **University of British Columbia**. 
 
 Prior to this, I completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** and **Prof. [Dongwook Yoon](https://dwyoon.com/)**. 
  
