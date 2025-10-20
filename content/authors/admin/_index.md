@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - Course: Ph.D in Computer Science (in progress)
+    - course: Ph.D in Computer Science (in progress)
       institution: University of Toronto
     - course: M.Sc.in Computer Science
       institution: University of British Columbia (Vancouver Campus)
