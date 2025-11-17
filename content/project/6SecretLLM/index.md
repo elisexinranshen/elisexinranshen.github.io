@@ -1,6 +1,6 @@
 ---
 title: "Understanding Secret Use of Large Language Models"
-summary: "Zhiping Zhang, __Chenxinran Shen__, Bingsheng Yao, Dakuo Wang, Tianshi Li<br> _In submission to CSCW2024_"
+summary: "Zhiping Zhang, __Chenxinran Shen__, Bingsheng Yao, Dakuo Wang, Tianshi Li<br>_CSCW2024_"
 tags:
   - HAI
 date: '2023-12-28T00:00:00Z'
