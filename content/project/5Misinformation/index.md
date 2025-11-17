@@ -1,6 +1,6 @@
 ---
 title: "Positive Energy: Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
-summary: Zhicong Lu,Yue Jiang, __Chenxinran Shen__, Margaret Jack, Daniel Wigdor, Mor Naauman <br> _CSCW 2021_ 
+summary: Zhicong Lu,Yue Jiang, __Chenxinran Shen__, Margaret Jack, Daniel Wigdor, Mor Naauman <br>  _Proceedings of the ACM on Human-Computer Interaction, 5(CSCW) (to appear at CSCW 2021) 2021_
 tags:
   - SC
 date: '2021-04-27T00:00:00Z'

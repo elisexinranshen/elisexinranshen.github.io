@@ -1,7 +1,7 @@
 ---
 # Soul
 title: "Seeking Soulmate via Voice: Understanding Promises and Challenges of Online Synchronized Voice-Based Mobile Dating"
-summary:  __Chenxinran Shen__, Yan Xu, Ray LC, Zhicong Lu <br> _CHI 2024_ <br> __<font color="red">Best Paper Honorable Mention (Top 5%) </font>🏆__ 
+summary:  __Chenxinran Shen__, Yan Xu, Ray LC, Zhicong Lu <br> _In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems 2024_ <br> __<font color="red">Best Paper Honorable Mention (Top 5%) </font>🏆__ 
 #<font color="red">This text will be green.</font>
 # __Chenxinran Shen__, Yan Xu, Ray LC, Zhicong Lu <br> _In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems 2024_ <font color="green">This text will be green.</font>
 tags:
