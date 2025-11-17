@@ -112,7 +112,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1IYvdNZ_sGdMgbE1lpYcw2PpuBCzGiaoc/view?usp=sharing
+    link: https://drive.google.com/file/d/10LYadqYoSADTDXKIMg03se1Y0gA2ctak/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 # My enthusiasm lies in exploring how VR and AI-mediated technologies can influence an individual’s perception and behavior, and the potential of this influence to enhance communication among people. 
