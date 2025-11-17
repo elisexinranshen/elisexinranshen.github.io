@@ -1,9 +1,9 @@
 ---
-title: "Human Cooperation in the Age of AI-Augmentation"
-summary: "__Chenxinran Shen__, Robin Welsch, Jurgis Karpus, Thomas Kosch, Steeven Villa <br> _Augmented Human 2025_ <br> "
+title: "AI Makes You Smarter, But None The Wiser: The Disconnect Between Performance and Metacognition"
+summary: "Daniela Fernandes, Steeven Villa, Salla Nicholls, Otso Haavisto, Daniel Buschek, Albrecht Schmidt, Thomas Kosch, __Chenxinran Shen__, Robin Welsch <br> _Computers in Human Behavior_ <br> "
 tags:
   - HAI
-date: '2024-02-27T00:00:00Z'
+date: '2024-02-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -18,7 +18,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3745900.3746084'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0747563225002262?ssrnid=5212902&dgcid=SSRN_redirect_SD#fig2'
 url_slides: ''
 url_video: ''
 
