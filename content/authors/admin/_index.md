@@ -126,5 +126,5 @@ I am currently a PhD student in Computer Science at the **University of Toronto*
 Prior to this, I completed my Master's degree in Computer Science at the **University of British Columbia**, under the co-supervision of **Prof. [Joanna McGrenere](https://www.cs.ubc.ca/~joanna/)** and **Prof. [Dongwook Yoon](https://dwyoon.com/)**. 
  
 
-Contact: elise.shen007@gmail.com 
+Contact: elise@cs.toronto.edu
 {style="text-align: justify;"}
