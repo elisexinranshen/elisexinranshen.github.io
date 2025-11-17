@@ -55,7 +55,7 @@
 
 # VR
 title: "LegacySphere: Facilitating Intergenerational Communication Through Perspective-Taking and Storytelling in Embodied VR"
-summary: __Chenxinran Shen__, Joanna McGrenere, Dongwook Yoon <br> _CHI 2024_ 
+summary: __Chenxinran Shen__, Joanna McGrenere, Dongwook Yoon <br> _In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems 2024_ 
 tags:
   - VR
 date: '2024-01-08T00:00:00Z'
