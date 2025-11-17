@@ -119,7 +119,7 @@ social:
 # For my thesis, I developed a VR system named *LegacySphere*. The system offers a perspective-taking approach aimed at enhancing younger adults' understanding and empathy towards their elder family members by allowing them to experience their family members' viewpoints.
 highlight_name: true
 ---
-My research focuses on **Computer Mediated Communication (CMC)**, **Creativity Support** and **Human-AI Collaboration**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. I create and evaluate **LLM-powered and VR-based** interactive systems, combining system design, prototyping, and mixed-method user studies to evaluate how they shape user perceptions, social interactions, real world usability and trust. **I received two Honorable Mention Awards at CHI 2024 and CHI 2021 🏆 as the first author**. 
+My research focuses on **Computer Mediated Communication (CMC)**, **Creativity Support** and **Human-AI Collaboration**, particularly on how alterations in **voice and visual** presentation influence self-perception and perceptions of others. I create and evaluate **LLM-powered and VR-based** interactive systems, combining system design, prototyping, and mixed-method user studies to evaluate how they shape user perceptions, social interactions, real world usability and trust. **I received two Honorable Mention Awards at CHI 2024 and CHI 2021 🏆 as the first author**.  
 
 I am currently a PhD student in Computer Science at the **University of Toronto**, working with **Prof. [Daniel Wigdor](https://danielwigdor.com/)**. I also worked with **Prof. [Robert Xiao](https://www.robertxiao.ca/)** at the **University of British Columbia**. 
 
