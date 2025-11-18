@@ -139,7 +139,7 @@ sections:
           tag: '*'
         - name: VR
           tag: VR
-        - name: Social Computing
+        - name: CMC
           tag: SC
         - name: Human-AI Interaction
           tag: HAI
